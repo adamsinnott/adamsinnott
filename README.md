@@ -1,6 +1,6 @@
 # Adam Sinnott
 
-Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and Droxford AI
+Lead Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and Droxford AI
 
 I build production-grade mobile apps and AI-powered systems for startups and SMEs.
 
