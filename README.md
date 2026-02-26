@@ -1,6 +1,6 @@
 # Adam Sinnott
 
-Lead Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and Droxford AI
+Lead Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and [Droxford AI](https://apps.apple.com/us/app/droxford-ai/id6753867436)
 
 I build production-grade mobile apps and AI-powered systems for startups and SMEs.
 
@@ -55,6 +55,10 @@ I build production-grade mobile apps and AI-powered systems for startups and SME
 ## 🏗 Featured Projects
 
 ### Droxford AI
+Public Repo: https://github.com/adamsinnott/DroxfordAIPublic/
+
+App Store Listing: https://apps.apple.com/us/app/droxford-ai/id6753867436
+
 Local AI assistant integrating:
 - Parish Council documents
 - Historical archives
