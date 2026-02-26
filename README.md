@@ -69,6 +69,13 @@ Built with React Native + Supabase + n8n.
 
 ---
 
+### Bins Out
+Public Repo: https://github.com/adamsinnott/bins-out
+
+A utility project focused on bin-day awareness and reminders, designed to solve a practical household problem with a simple user experience.
+
+---
+
 ### AppCreators
 Custom web & mobile app development for SMEs.
 
