@@ -69,10 +69,19 @@ Built with React Native + Supabase + n8n.
 
 ---
 
-### Bins Out
-Public Repo: https://github.com/adamsinnott/bins-out
+### Additional Engineering Projects
 
-A utility project focused on bin-day awareness and reminders, designed to solve a practical household problem with a simple user experience.
+- Bins Out: https://github.com/adamsinnott/bins-out  
+  Embedded MagTag e-ink utility for waste collection reminders with deep-sleep power strategy and host-side tests.
+
+- APIWISE: https://github.com/adamsinnott/apiwise  
+  Embedded IoT API health monitor on Adafruit MagTag (CircuitPython, polling/state logic, local alerting UX).
+
+- WakeOnLAN: https://github.com/adamsinnott/WakeOnLAN  
+  Android networking utility showing protocol-level packet construction (UDP magic packets), validation, and test/CI discipline.
+
+- SensorHub: https://github.com/adamsinnott/sensorhub  
+  ESP32 telemetry prototype publishing sensor data over MQTT/TLS with hardware integration and cloud IoT connectivity.
 
 ---
 
