@@ -69,6 +69,13 @@ Built with React Native + Supabase + n8n.
 
 ---
 
+### Building LLM-First Teams and Projects
+
+- LLM First Playbook: https://github.com/adamsinnott/llm-first-playbook  
+  Practical playbook for building with LLM-first workflows, implementation patterns, and delivery guardrails.
+
+---
+
 ### Additional Engineering Projects
 
 - Bins Out: https://github.com/adamsinnott/bins-out  
@@ -82,9 +89,6 @@ Built with React Native + Supabase + n8n.
 
 - SensorHub: https://github.com/adamsinnott/sensorhub  
   ESP32 telemetry prototype publishing sensor data over MQTT/TLS with hardware integration and cloud IoT connectivity.
-
-- LLM First Playbook: https://github.com/adamsinnott/llm-first-playbook  
-  Practical playbook for building with LLM-first workflows, implementation patterns, and delivery guardrails.
 
 ---
 
