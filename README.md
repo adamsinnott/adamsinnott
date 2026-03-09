@@ -76,6 +76,16 @@ Built with React Native + Supabase + n8n.
 
 ---
 
+### AWS Cognito Demo
+
+Repository: https://github.com/adamsinnott/aws-cognito-demo
+
+Hosted Demo on GitHub Pages: https://adamsinnott.github.io/aws-cognito-demo/
+
+React Native/Expo proof-of-concept for Cognito auth flows including sign-up, email verification, sign-in, password reset, sign-out, and session restore.
+
+---
+
 ### Additional Engineering Projects
 
 - Bins Out: https://github.com/adamsinnott/bins-out  
