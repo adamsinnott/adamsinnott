@@ -1,6 +1,6 @@
 # Adam Sinnott
 
-Lead Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and [Droxford AI](https://apps.apple.com/us/app/droxford-ai/id6753867436)
+Lead Senior React Native Engineer | AI Workflow Architect | Founder of AppCreators and <a href="https://apps.apple.com/us/app/droxford-ai/id6753867436" target="_blank" rel="noopener noreferrer">Droxford AI</a>
 
 I build production-grade mobile apps and AI-powered systems for startups and SMEs.
 
@@ -55,9 +55,9 @@ I build production-grade mobile apps and AI-powered systems for startups and SME
 ## 🏗 Featured Projects
 
 ### Droxford AI
-Public Repo: https://github.com/adamsinnott/DroxfordAIPublic/
+Public Repo: <a href="https://github.com/adamsinnott/DroxfordAIPublic/" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/DroxfordAIPublic/</a>
 
-App Store Listing: https://apps.apple.com/us/app/droxford-ai/id6753867436
+App Store Listing: <a href="https://apps.apple.com/us/app/droxford-ai/id6753867436" target="_blank" rel="noopener noreferrer">https://apps.apple.com/us/app/droxford-ai/id6753867436</a>
 
 Local AI assistant integrating:
 - Parish Council documents
@@ -71,16 +71,16 @@ Built with React Native + Supabase + n8n.
 
 ### Building LLM-First Teams and Projects
 
-- LLM First Playbook: https://github.com/adamsinnott/llm-first-playbook  
+- LLM First Playbook: <a href="https://github.com/adamsinnott/llm-first-playbook" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/llm-first-playbook</a>  
   Practical playbook for building with LLM-first workflows, implementation patterns, and delivery guardrails.
 
 ---
 
 ### AWS Cognito Demo
 
-Repository: https://github.com/adamsinnott/aws-cognito-demo
+Repository: <a href="https://github.com/adamsinnott/aws-cognito-demo" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/aws-cognito-demo</a>
 
-Hosted Demo on GitHub Pages: https://adamsinnott.github.io/aws-cognito-demo/
+Hosted Demo on GitHub Pages: <a href="https://adamsinnott.github.io/aws-cognito-demo/" target="_blank" rel="noopener noreferrer">https://adamsinnott.github.io/aws-cognito-demo/</a>
 
 React Native/Expo proof-of-concept for Cognito auth flows including sign-up, email verification, sign-in, password reset, sign-out, and session restore.
 
@@ -88,16 +88,16 @@ React Native/Expo proof-of-concept for Cognito auth flows including sign-up, ema
 
 ### Additional Engineering Projects
 
-- Bins Out: https://github.com/adamsinnott/bins-out  
+- Bins Out: <a href="https://github.com/adamsinnott/bins-out" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/bins-out</a>  
   Embedded MagTag e-ink utility for waste collection reminders with deep-sleep power strategy and host-side tests.
 
-- APIWISE: https://github.com/adamsinnott/apiwise  
+- APIWISE: <a href="https://github.com/adamsinnott/apiwise" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/apiwise</a>  
   Embedded IoT API health monitor on Adafruit MagTag (CircuitPython, polling/state logic, local alerting UX).
 
-- WakeOnLAN: https://github.com/adamsinnott/WakeOnLAN  
+- WakeOnLAN: <a href="https://github.com/adamsinnott/WakeOnLAN" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/WakeOnLAN</a>  
   Android networking utility showing protocol-level packet construction (UDP magic packets), validation, and test/CI discipline.
 
-- SensorHub: https://github.com/adamsinnott/sensorhub  
+- SensorHub: <a href="https://github.com/adamsinnott/sensorhub" target="_blank" rel="noopener noreferrer">https://github.com/adamsinnott/sensorhub</a>  
   ESP32 telemetry prototype publishing sensor data over MQTT/TLS with hardware integration and cloud IoT connectivity.
 
 ---
@@ -105,13 +105,13 @@ React Native/Expo proof-of-concept for Cognito auth flows including sign-up, ema
 ### AppCreators
 Custom web & mobile app development for SMEs.
 
-https://appcreators.co.uk
+<a href="https://appcreators.co.uk" target="_blank" rel="noopener noreferrer">https://appcreators.co.uk</a>
 
 ---
 
 ## 📫 Contact
 
-- Website: https://appcreators.co.uk/contact
+- Website: <a href="https://appcreators.co.uk/contact" target="_blank" rel="noopener noreferrer">https://appcreators.co.uk/contact</a>
 
 ---
 
